@@ -103,3 +103,5 @@ new_row = {'Model Name' : models,
                	'Balanced Accuracy':balanced_accuracy,
              	}
 HTResults = HTResults.append(new_row, ignore_index=True)
+#Extra tress classifier Model got an accuracy of about 96.2% and got a precision and got RocAuc curve of 95.8 .
+As we got the best in every parameter we consider this is the best model to find Passenger Satisfaction in Airlines.
